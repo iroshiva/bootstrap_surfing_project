@@ -1,0 +1,13 @@
+.fond
+{
+	background-image: url(img/fond_ban.jpg);
+	background-position-y: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 600px;
+}
+
+.my50 {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
